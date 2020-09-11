@@ -14,10 +14,6 @@ https://sibashish99.github.io/
 
 ```
 https://github.com/sibashish99/sibashish99.github.io.git
+Edit index.html 
 ```
 
-### Prerequisites
-
-* Edit index.html 
-
-```
